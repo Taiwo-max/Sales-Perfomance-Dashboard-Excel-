@@ -3,9 +3,11 @@
 This project presents two Excel-based dashboards developed from the same sales dataset for a technology retail store. Together, the dashboards provide both a high-level performance overview and a deeper regional and product-level analysis, supporting business-focused insight and decision-making.
 The project demonstrates how Excel can be used to design multiple analytical views from a single dataset, each tailored to different business questions.
 
-## Dataset Used
+## Files
 - <a href = "https://github.com/Taiwo-max/Sales-Perfomance-Dashboard-Excel-/blob/main/Sales%20Performance%20Dataset%20%26%20Dashboard.xlsb.xlsx"> Dataset</a>: 
 raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard.
+- Dashboard Screenshots  <br />
+Visual previews of the Products Overview and Regional Insights dashboards
 
 ## Dashboard 1: Products Overview & Profit Insights
 <img width="1858" height="816" alt="Products overview" src="https://github.com/user-attachments/assets/d6ea952c-c081-4030-92a1-512fc2da8c9c" />
@@ -51,12 +53,6 @@ To support regional performance analysis, highlight geographic differences, and 
 - Product performance varied significantly, with certain categories driving growth
 - Regional analysis revealed differences in contribution and sales distribution
 - Cost trends remained relatively stable compared to revenue growth
-
-## Files
-- Sales Performance Dataset & Dashboard.xlsb.xlsx  <br /> 
-Contains the dataset, PivotTables, and both dashboards
-- Dashboard Screenshots  <br />
-Visual previews of the Products Overview and Regional Insights dashboards
 
 ## Notes
 - The retail store represented in this dataset is anonymized
