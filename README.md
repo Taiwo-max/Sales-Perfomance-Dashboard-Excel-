@@ -23,7 +23,7 @@ To provide a quick executive-style summary of performance and identify high-leve
 ## Dashboard 2: Regional & Sales Insights
 <img width="1647" height="654" alt="Regional Insights" src="https://github.com/user-attachments/assets/543cae95-c6d8-4857-9239-47280ff516b8" />
 
-This dashboard provides a deeper analytical view, focusing on regional performance and cost behavior. 
+This dashboard provides a deeper analytical view, focusing on regional performance and cost behavior.  <br />
 Key Features:
 - Regional profit contribution by year
 - Regional sales distribution
