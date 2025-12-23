@@ -59,7 +59,5 @@ Contains the dataset, PivotTables, and both dashboards
 Visual previews of the Products Overview and Regional Insights dashboards
 
 ## Notes
-•	The retail store represented in this dataset is anonymized
-
-## 
-This project is part of an actively maintained analytics portfolio and may be expanded with additional analysis or enhancements.
+- The retail store represented in this dataset is anonymized
+- This project is part of an actively maintained analytics portfolio and may be expanded with additional analysis or enhancements.
