@@ -5,7 +5,7 @@ The project demonstrates how Excel can be used to design multiple analytical vie
 
 ## Files
 - <a href = "https://github.com/Taiwo-max/Sales-Perfomance-Dashboard-Excel-/blob/main/Sales%20Performance%20Dataset%20%26%20Dashboard.xlsb.xlsx"> Dataset</a>: 
-Raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard.
+Raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard. (To download, click on link, then click on view raw)
 - Dashboard Screenshots: Visual previews of the Products Overview and Regional Insights dashboards
 
 ## Dashboard 1: Products Overview & Profit Insights
