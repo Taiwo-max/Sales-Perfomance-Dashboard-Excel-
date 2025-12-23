@@ -8,6 +8,8 @@ The project demonstrates how Excel can be used to design multiple analytical vie
 raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard.
 
 ## Dashboard 1: Products Overview & Profit Insights
+<img width="1858" height="816" alt="Products overview" src="https://github.com/user-attachments/assets/d6ea952c-c081-4030-92a1-512fc2da8c9c" />
+
 This dashboard focuses on overall business performance and year-over-year comparison (2023 vs. 2024).
 Key Features
 •	KPIs for Sales, Profit, Cost, and Quantity Sold
