@@ -1,2 +1,4 @@
-# Sales-Perfomance-Dashboard-Excel-
-An Excel dashboard built using PivotTables and charts to analyze sales data for a technology retail store, with a focus on KPI tracking, trend analysis, and clear presentation of business insights.
+# Sales Performance & Regional Insights Dashboards (Excel)
+## Overview
+This project presents two Excel-based dashboards developed from the same sales dataset for a technology retail store. Together, the dashboards provide both a high-level performance overview and a deeper regional and product-level analysis, supporting business-focused insight and decision-making.
+The project demonstrates how Excel can be used to design multiple analytical views from a single dataset, each tailored to different business questions.
