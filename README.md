@@ -12,10 +12,10 @@ raw file contains the dataset, as well as additional sheets with containing all 
 
 This dashboard focuses on overall business performance and year-over-year comparison (2023 vs. 2024).
 Key Features
-•	KPIs for Sales, Profit, Cost, and Quantity Sold
-•	Year-over-year percentage change indicators
-•	Monthly revenue trend comparison
-•	Revenue breakdown by product category
+- KPIs for Sales, Profit, Cost, and Quantity Sold
+- Year-over-year percentage change indicators
+- Monthly revenue trend comparison
+- Revenue breakdown by product category
 Purpose
 To provide a quick executive-style summary of performance and identify high-level trends and top-performing products.
 
