@@ -5,7 +5,7 @@ The project demonstrates how Excel can be used to design multiple analytical vie
 
 ## Dataset Used
 - <a href = "https://github.com/Taiwo-max/Sales-Perfomance-Dashboard-Excel-/blob/main/Sales%20Performance%20Dataset%20%26%20Dashboard.xlsb.xlsx"> Dataset</a>: 
-raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard
+raw file contains the dataset, as well as additional sheets with containing all pivot tables and the final dashboard.
 
 ## Dashboard 1: Products Overview & Profit Insights
 This dashboard focuses on overall business performance and year-over-year comparison (2023 vs. 2024).
