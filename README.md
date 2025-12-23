@@ -11,24 +11,26 @@ raw file contains the dataset, as well as additional sheets with containing all 
 <img width="1858" height="816" alt="Products overview" src="https://github.com/user-attachments/assets/d6ea952c-c081-4030-92a1-512fc2da8c9c" />
 
 This dashboard focuses on overall business performance and year-over-year comparison (2023 vs. 2024).
-Key Features
+- Key Features: 
 - KPIs for Sales, Profit, Cost, and Quantity Sold
 - Year-over-year percentage change indicators
 - Monthly revenue trend comparison
 - Revenue breakdown by product category
-Purpose
+  
+- Purpose
 To provide a quick executive-style summary of performance and identify high-level trends and top-performing products.
 
 ## Dashboard 2: Regional & Sales Insights
 <img width="1647" height="654" alt="Regional Insights" src="https://github.com/user-attachments/assets/543cae95-c6d8-4857-9239-47280ff516b8" />
 
 This dashboard provides a deeper analytical view, focusing on regional performance and cost behavior.
-Key Features
-•	Regional profit contribution by year
-•	Regional sales distribution
-•	Product-level sales comparison
-•	Sales vs. cost tracking over time
-Purpose
+- Key Features:
+- Regional profit contribution by year
+- Regional sales distribution
+- Product-level sales comparison
+- Sales vs. cost tracking over time
+
+- Purpose
 To support regional performance analysis, highlight geographic differences, and explore how sales and costs vary across time and location.
 
 ## Tools and Skills Used
@@ -45,15 +47,15 @@ To support regional performance analysis, highlight geographic differences, and 
 5.	Applied consistent formatting to ensure clarity and usability
 
 ## Key Insights
-•	Overall sales and profit increased year-over-year
-•	Product performance varied significantly, with certain categories driving growth
-•	Regional analysis revealed differences in contribution and sales distribution
-•	Cost trends remained relatively stable compared to revenue growth
+- Overall sales and profit increased year-over-year
+- Product performance varied significantly, with certain categories driving growth
+- Regional analysis revealed differences in contribution and sales distribution
+- Cost trends remained relatively stable compared to revenue growth
 
 ## Files
-•	Sales Performance Dataset & Dashboard.xlsb.xlsx
+- Sales Performance Dataset & Dashboard.xlsb.xlsx
 Contains the dataset, PivotTables, and both dashboards
-•	Dashboard Screenshots
+- Dashboard Screenshots
 Visual previews of the Products Overview and Regional Insights dashboards
 
 ## Notes
